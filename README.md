@@ -9,7 +9,7 @@ Feature `Time` contains the seconds elapsed between each transaction and the fir
 
 The feature `Amount` is the transaction Amount, this feature is scaled using StandardScaler.
 
-Feature `Class` is the response variable and it takes value 1 in case of fraud and 0 otherwise.
+Feature `Class` is the response variable
 
 This project mainly focuses on handling imbalanced datasets and detecting credit-card frauds. I have used to following models to look for the best model.
 
